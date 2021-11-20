@@ -18,6 +18,13 @@ Curious about what plans we have for Excalibur? View the [1.0 Release Roadmap](h
 You can also follow us on [Twitter](http://twitter.com/excaliburjs), 
 check out our [announcements](https://github.com/excaliburjs/Excalibur/discussions/categories/news), or [read the blog](http://blog.excaliburjs.com).
 
+### Repositories overview
+
+- [Main repo](https://github.com/excaliburjs/Excalibur): the Excalibur game engine repo
+- [Samples](https://github.com/orgs/excaliburjs/repositories?q=sample&type=public&language=&sort=): sample games built with Excalibur
+- [Templates](https://github.com/orgs/excaliburjs/repositories?q=template&type=public&language=&sort=): game templates for various build and bundling tools
+- [Plugins](https://github.com/orgs/excaliburjs/repositories?q=plugin&type=public&language=&sort=): add-ons for third-party integrations, testing, and more
+
 ## Questions
 If you have any questions, ask them on our [discussions page](https://github.com/excaliburjs/Excalibur/discussions/categories/q-a). We're happy to help!
 
