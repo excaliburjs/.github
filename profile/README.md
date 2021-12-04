@@ -30,9 +30,9 @@ If you have any questions, ask them on our [discussions page](https://github.com
 
 ## Contributing
 
-If you'd like to contribute to any of our projects, read through our [Code of Conduct](.github/CODE_OF_CONDUCT.md) first.
+If you'd like to contribute to any of our projects, read through our [Code of Conduct](https://github.com/excaliburjs/Excalibur/blob/main/.github/CODE_OF_CONDUCT.md) first.
 
-Our [Contributing Guidelines](.github/CONTRIBUTING.md) provide an overview of the contributing process.
+Our [Contributing Guidelines](https://github.com/excaliburjs/Excalibur/blob/main/.github/CONTRIBUTING.md) provide an overview of the contributing process.
 
 ## Go make games!
 
