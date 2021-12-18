@@ -11,6 +11,9 @@ Check out our [Getting Started](https://excaliburjs.com/docs/getting-started) gu
 
 If you're interested in a bit more reading, you can explore our [user documentation](https://excaliburjs.com/docs).
 
+## Community
+Visit our [discussions page](https://github.com/excaliburjs/Excalibur/discussions) to share what you're working on, ask questions, or chat with other folks who are building games with Excalibur!
+
 ## More information
 
 Curious about what plans we have for Excalibur? View the [1.0 Release Roadmap](https://github.com/excaliburjs/Excalibur/issues/1161) to see what's coming next.
