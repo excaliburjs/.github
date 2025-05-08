@@ -12,14 +12,14 @@ Check out our [Getting Started](https://excaliburjs.com/docs/getting-started) gu
 If you're interested in a bit more reading, you can explore our [user documentation](https://excaliburjs.com/docs).
 
 ## Community
-Visit our [discussions page](https://github.com/excaliburjs/Excalibur/discussions) to share what you're working on, ask questions, or chat with other folks who are building games with Excalibur!
+Visit our [discussions page](https://github.com/excaliburjs/Excalibur/discussions) or [Discord server](https://discord.gg/W6zUd4tTY3) to share what you're working on, ask questions, or chat with other folks who are building games with Excalibur!
 
 ## More information
 
 Curious about what plans we have for Excalibur? View the [1.0 Release Roadmap](https://github.com/excaliburjs/Excalibur/issues/1161) to see what's coming next.
 
-You can also follow us on [Twitter](http://twitter.com/excaliburjs), 
-check out our [announcements](https://github.com/excaliburjs/Excalibur/discussions/categories/news), or [read the blog](http://blog.excaliburjs.com).
+You can also follow us on social media ([BlueSky](https://bsky.app/profile/excaliburjs.com), [Mastodon](https://mastodon.gamedev.place/@excaliburjs), [Threads](https://www.threads.net/@excalibur.js), [Twitter](http://twitter.com/excaliburjs)), sign up for the [newsletter](https://news.excaliburjs.com/),
+check out our [announcements](https://github.com/excaliburjs/Excalibur/discussions/categories/news), or [read the blog](https://excaliburjs.com/blog).
 
 ### Repositories overview
 
